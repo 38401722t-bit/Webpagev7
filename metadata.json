@@ -1,0 +1,6 @@
+{
+  "name": "Exploro India",
+  "description": "Interactive India travel companion with AI itinerary planning, live weather forecasts, crowd insights, multi-stop route optimization, and curated food trails.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
